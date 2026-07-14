@@ -1,0 +1,15 @@
+# Input files
+protein_file /content/drive/MyDrive/Penelitian/Docking CA JF/protein_spores.mol2
+
+ligand_file /content/drive/MyDrive/Penelitian/Docking CA JF/MOL2_Prepared/Quercetin_spores.mol2
+
+# Output
+output_dir /content/drive/MyDrive/Penelitian/Docking CA JF/Hasil Plant/Quercetin
+
+# Binding site
+bindingsite_center 66.2477 49.6386 91.9574
+bindingsite_radius 20
+
+# Docking
+scoring_function chemplp
+search_speed speed1

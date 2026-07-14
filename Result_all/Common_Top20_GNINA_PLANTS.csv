@@ -1,0 +1,14 @@
+No_x,Compound,Best Mode,Affinity (kcal/mol),CNN Pose Score,CNN Affinity,No_y,Best Pose,PLANTS Score
+1,Asparanin_B,8,-11.71,0.4279,6.173,10,Asparanin_B_spores_entry_00001_conf_01,-93.7583
+2,Albanol_A,8,-11.03,0.415,6.379,7,Albanol_A_spores_entry_00001_conf_01,-97.298
+3,Gambiriin_A3,4,-10.87,0.4467,6.578,3,Gambiriin_A3_spores_entry_00001_conf_01,-111.663
+4,Isoorientin_7-glucoside,4,-10.52,0.3305,5.355,13,Isoorientin_7-glucoside_spores_entry_00001_conf_01,-92.8857
+7,Campesteryl_p-coumarate,7,-10.14,0.3661,6.731,11,Campesteryl_p-coumarate_spores_entry_00001_conf_01,-93.6164
+10,Epigallocatechin,1,-9.86,0.759,5.461,15,Epigallocatechin_spores_entry_00001_conf_01,-91.1878
+12,Catechin,3,-9.81,0.6811,5.115,8,Catechin_spores_entry_00001_conf_01,-95.9081
+14,Epicatechin_gallate,2,-9.64,0.6177,5.442,6,Epicatechin_gallate_spores_entry_00001_conf_01,-98.8714
+16,Chrysin,2,-9.3,0.6176,4.912,20,Chrysin_spores_entry_00001_conf_01,-87.8062
+17,Phaeophorbide_a,8,-9.29,0.3501,6.651,9,Phaeophorbide_a_spores_entry_00001_conf_01,-94.2563
+18,Belladonnine,4,-9.27,0.4559,6.433,18,Belladonnine_spores_entry_00001_conf_01,-90.0085
+20,Auriculine,9,-9.25,0.3052,5.513,4,Auriculine_spores_entry_00001_conf_01,-99.5105
+21,Hordatine_A,7,-9.2,0.3725,6.079,1,Hordatine_A_spores_entry_00001_conf_01,-119.114

@@ -1,0 +1,39 @@
+===============================
+
+PLANTS v1.2 Configuration File
+
+===============================
+
+Input files
+
+protein_file /content/drive/MyDrive/Penelitian/Docking CA
+JF/protein_spores.mol2
+
+ligand_file /content/drive/MyDrive/Penelitian/Docking CA
+JF/MOL2_Prepared/Quercetin_spores.mol2
+
+Output directory
+
+output_dir /content/drive/MyDrive/Penelitian/Docking CA JF/Hasil
+Plant/Quercetin
+
+Binding site
+
+bindingsite_center 66.2477 49.6386 91.9574 bindingsite_radius 20
+
+Scoring function
+
+scoring_function chemplp
+
+Search settings
+
+search_speed speed1
+
+Clustering
+
+cluster_structures 10 cluster_rmsd 2.0
+
+Output options
+
+write_multi_mol2 1 write_per_atom_scores 0 write_protein_bindingsite 0
+write_protein_conformations 0 write_ranking_links 0
