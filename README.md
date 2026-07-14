@@ -62,23 +62,31 @@ Hit Compound Visualization
 
 ```
 .
-├── Chapter 1 - Ligand Preparation.ipynb
-├── Chapter 2 - Molecular Docking Using GNINA and PLANTS.ipynb
-├── Chapter 3 - Consensus Analysis of Molecular Docking Results.ipynb
+## Repository Structure
+
+```text
+dpp4-cassiaauriculata-docking/
 │
-├── data/
+├── MOL2/                                    # Prepared ligand structures in MOL2 format
+├── Result_all/                              # Docking and analysis results
 │
-├── ligands/
+├── 5Y7H_edited.pdb                          # Prepared DPP-4 receptor
+├── 5Y7H_edited.pdb_bad.mol2                 # Receptor converted to MOL2
+├── Ligands_All.pdb                          # Combined ligand library
 │
-├── protein/
+├── compound_library_cassia_auriculata.xlsx  # Initial phytochemical dataset
+├── SMILES.xlsx                              # Compound names, CID, and SMILES
 │
-├── docking_results/
+├── dock_gcolab.txt                          # PLANTS docking configuration
+├── dock_gcolab_1.txt                        # Alternative docking configuration
 │
-├── consensus_results/
+├── protein.mol2                             # Protein structure in MOL2 format
+├── protein_spores.mol2                      # SPORES-processed protein
 │
-├── figures/
+├── Results_gnina.rar                        # GNINA docking results
 │
 └── README.md
+```
 ```
 
 ---
